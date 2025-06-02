@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+altair
+pandas
+streamlit
+=======
+streamlit>=1.25.0
+faiss-cpu>=1.7.4
+torch==2.1.0
+transformers==4.36.2
+sentencepiece
+numpy<2
+httpx>=0.24.0
+huggingface_hub>=0.20.0
+
+protobuf 
+
+>>>>>>> 440dfab (Upload Streamlit app)
